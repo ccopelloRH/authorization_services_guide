@@ -15,7 +15,7 @@
     "images": "keycloak-images",
     "project": {
       "name": "Keycloak",
-      "version": "2.5.0.Final",
+      "version": "2.5.1.Final",
       "module": "Authorization Services",
       "doc_base_url": "https://keycloak.gitbooks.io/",
       "doc_info_version_url": ""
